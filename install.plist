@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://appdown.fzv3.com/longao/IOS/IPA0430/longao.ipa</string>
+					<string>http://layl666.com/longao/IOS/IPA0430/longao.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://appdown.fzv3.com/longao/IOS/60.png</string>
+					<string>http://layl666.com/longao/IOS/60.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://appdown.fzv3.com/longao/IOS/60.png</string>
+					<string>http://layl666.com/longao/IOS/60.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
